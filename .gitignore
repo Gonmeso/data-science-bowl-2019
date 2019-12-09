@@ -6,3 +6,6 @@ data/
 
 # Ignore environment
 venv/
+
+# Ignore notebooks checkpoint
+*/.ipynb_checkpoints/
