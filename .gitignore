@@ -1,0 +1,8 @@
+# Ignore data
+data/
+
+# Ignore vsCode
+.vscode
+
+# Ignore environment
+venv/
