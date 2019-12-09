@@ -9,3 +9,6 @@ venv/
 
 # Ignore notebooks checkpoint
 */.ipynb_checkpoints/
+
+# Ignore cache
+__pycache__
